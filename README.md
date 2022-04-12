@@ -9,7 +9,7 @@ Al seguir navegando en la landing page, te encontrarás con un carrousel que te 
 
 ¿Vas a perderte esta nueva experiencia mágica, construida con REACT? 
 
-[![logo.png](https://i.postimg.cc/LXdQ94j6/logo.png)](https://postimg.cc/mcwyVsd0)
+ <h2 align="center"> [![logo.png](https://i.postimg.cc/LXdQ94j6/logo.png)](https://postimg.cc/mcwyVsd0)</h2>
 
 ## Introducción
 
